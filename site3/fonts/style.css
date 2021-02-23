@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Gabriola";
+  src: url("Gabriola.eot"); /* IE9 */
+  src: url("Gabriola.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("Gabriola.otf") format("opentype"), /* Open Type Font */
+    url("Gabriola.woff") format("woff"), /* Для современных браузеров */
+    url("Gabriola.woff2") format("woff2"); /* Для современных браузеров */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+	font-family: "Technotype"; 
+	src: url("Technotype.eot"); 
+	src: url("Technotype.woff2") format("woff2"), 
+		 url("Technotype.woff") format("woff"), 
+		 url("Technotype.ttf") format("truetype"); 
+}
